@@ -7,7 +7,7 @@ const globalCSS = fs.readFileSync(
 require("svelte/register");
 
 for (const entityName of ["dans", "staffs", "tournaments"]) {
-  const entities = require(`../src/data/dans`);
+  const entities = require(`../src/data/${entityName}`);
   const capitalizedName = entityName[0].toUpperCase() + entityName.slice(1);
   const Component = require(`../src/svgs/${capitalizedName}.svelte`).default;
   const { html, css } = Component.render({ [entityName]: entities });

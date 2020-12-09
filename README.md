@@ -20,13 +20,15 @@ the `public` directory and get links to the SVGs (see below for examples).
 
 ## Examples
 
-`https://paturages.github.io/osu-profile/public/svg/tournaments.svg`
+You can add something like `?v=102831` to refresh browser caches if necessary.
+
+https://paturages.github.io/osu-profile/public/svg/tournaments.svg
 ![](https://paturages.github.io/osu-profile/public/svg/tournaments.svg)
 
-`https://paturages.github.io/osu-profile/public/svg/staffs.svg`
+https://paturages.github.io/osu-profile/public/svg/staffs.svg
 ![](https://paturages.github.io/osu-profile/public/svg/staffs.svg)
 
-`https://paturages.github.io/osu-profile/public/svg/dans.svg`
+https://paturages.github.io/osu-profile/public/svg/dans.svg
 ![](https://paturages.github.io/osu-profile/public/svg/dans.svg)
 
 ## Potential fixes
