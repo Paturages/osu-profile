@@ -1,0 +1,61 @@
+<svg fill="none" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <style>html,
+body {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+body,
+.container {
+  background: #2a2226;
+  color: #fff;
+  margin: 0;
+  padding: 8px;
+  box-sizing: border-box;
+  font-family: Torus, Inter, "Helvetica Neue", Tahoma, Arial,
+    "Hiragino Kaku Gothic ProN", Meiryo, "Microsoft YaHei",
+    "Apple SD Gothic Neo", sans-serif;
+}
+.staff.svelte-11z5yci{font-size:12px;margin:2px 0;background:#46393f;border-radius:10px;display:flex}.title.svelte-11z5yci{font-size:14px}.description.svelte-11z5yci{color:rgb(255, 204, 34);margin-top:1px}.period.svelte-11z5yci{color:rgb(163, 143, 152);margin-left:1em}.left.svelte-11z5yci{flex:1;padding:.5em 1em;display:flex;flex-direction:column;justify-content:center}.right.svelte-11z5yci::before{content:"";background-color:#46393f;width:10px;height:100%;position:absolute;left:0;top:0;-webkit-clip-path:polygon(0 0,100% 50%,0 100%);clip-path:polygon(0 0,100% 50%,0 100%)}.right.svelte-11z5yci{font-size:16px;padding:6px 6px 6px 12px;text-align:right;position:relative;width:72px;color:rgb(255, 102, 171);background:#382e32;display:inline-flex;align-items:center;justify-content:flex-end}</style>
+        <div class="container"><div class="staff svelte-11z5yci"><div class="left svelte-11z5yci"><div class="title svelte-11z5yci">Mania Beginner&#39;s Showdown 2
+      (MBS2)</div>
+    <div class="description svelte-11z5yci">The simultaneous streaming/casting debut
+      <span class="period svelte-11z5yci">April-July 2020</span></div></div>
+  <div class="right svelte-11z5yci"><span>📺</span>
+    <span>🎙️</span>
+    </div>
+</div><div class="staff svelte-11z5yci"><div class="left svelte-11z5yci"><div class="title svelte-11z5yci">Expert Global Taiko Showdown
+      (EGTS)</div>
+    <div class="description svelte-11z5yci">Emergency streaming for late phases
+      <span class="period svelte-11z5yci">July 2020</span></div></div>
+  <div class="right svelte-11z5yci"><span>📺</span>
+    
+    </div>
+</div><div class="staff svelte-11z5yci"><div class="left svelte-11z5yci"><div class="title svelte-11z5yci">Jaye&#39;s One Key Event
+      (JOKE)</div>
+    <div class="description svelte-11z5yci">Some early round casting
+      <span class="period svelte-11z5yci">July-August 2020</span></div></div>
+  <div class="right svelte-11z5yci">
+    <span>🎙️</span>
+    </div>
+</div><div class="staff svelte-11z5yci"><div class="left svelte-11z5yci"><div class="title svelte-11z5yci">osu!mania 4K World Cup 2020
+      (MWC4K2020)</div>
+    <div class="description svelte-11z5yci">First MWC casting!
+      <span class="period svelte-11z5yci">August-September 2020</span></div></div>
+  <div class="right svelte-11z5yci">
+    <span>🎙️</span>
+    </div>
+</div><div class="staff svelte-11z5yci"><div class="left svelte-11z5yci"><div class="title svelte-11z5yci">Get BMS Confined 2
+      </div>
+    <div class="description svelte-11z5yci">Praise PouletFurtif and Odin
+      <span class="period svelte-11z5yci">November 2020</span></div></div>
+  <div class="right svelte-11z5yci"><span>📺</span>
+    <span>🎙️</span>
+    <span>👮</span></div>
+</div></div>
+      </div>
+    </foreignObject>
+  </svg>
