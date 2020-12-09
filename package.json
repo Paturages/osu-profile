@@ -2,7 +2,7 @@
   "name": "@paturages/osu-profile",
   "version": "1.0.0",
   "scripts": {
-    "build": "node scripts/dans && node scripts/staffs && node scripts/tournaments",
+    "build": "node scripts/build",
     "dev": "rollup -c -w",
     "start": "sirv public"
   },

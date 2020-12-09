@@ -1,7 +1,7 @@
-<svg fill="none" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-        <style>html,
+<svg fill="none" width="800" height="1122" xmlns="http://www.w3.org/2000/svg">
+      <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <style>html,
 body {
   position: relative;
   width: 100%;
@@ -20,7 +20,7 @@ body,
     "Apple SD Gothic Neo", sans-serif;
 }
 .dan.svelte-gjj66f{font-size:12px;margin:2px 0;background:#46393f;border-radius:10px;display:flex}.title.svelte-gjj66f{font-size:14px}.description.svelte-gjj66f{color:rgb(255, 204, 34);margin-top:1px}.period.svelte-gjj66f{color:rgb(163, 143, 152);margin-left:1em}.left.svelte-gjj66f{flex:1;padding:.5em 1em;display:flex;flex-direction:column;justify-content:center}.right.svelte-gjj66f::before{content:"";background-color:#46393f;width:10px;height:100%;position:absolute;left:0;top:0;-webkit-clip-path:polygon(0 0,100% 50%,0 100%);clip-path:polygon(0 0,100% 50%,0 100%)}.right.svelte-gjj66f{padding:6px 6px 6px 12px;text-align:right;position:relative;width:72px;color:rgb(255, 102, 171);background:#382e32;display:inline-flex;flex-direction:column;justify-content:center}.percent.svelte-gjj66f{font-weight:bold}</style>
-        <div class="container"><div class="dan svelte-gjj66f"><div class="left svelte-gjj66f"><div class="title svelte-gjj66f">Reform Dans</div>
+          <div class="container"><div class="dan svelte-gjj66f"><div class="left svelte-gjj66f"><div class="title svelte-gjj66f">Reform Dans</div>
     <div class="description svelte-gjj66f">Dan 2
       <span class="period svelte-gjj66f">2020-01-31</span></div></div>
   <div class="right svelte-gjj66f"><div class="percent svelte-gjj66f">99.06%</div>
@@ -141,6 +141,6 @@ body,
   <div class="right svelte-gjj66f"><div class="percent svelte-gjj66f">96.44%</div>
     <div class="v2">(v2)</div></div>
 </div></div>
-      </div>
-    </foreignObject>
-  </svg>
+        </div>
+      </foreignObject>
+    </svg>

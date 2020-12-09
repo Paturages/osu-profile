@@ -16,4 +16,20 @@ You can then provide your own data in `src/data` and run `npm run build`.
 The `public/svg` directory should be updated and pushable somewhere.
 
 Assuming you're forking this repo somewhere else on GitHub, you can use GitHub Pages to expose
-the `public` directory and get links to the SVGs.
+the `public` directory and get links to the SVGs (see below for examples).
+
+## Examples
+
+`https://paturages.github.io/osu-profile/public/svg/tournaments.svg`
+![](https://paturages.github.io/osu-profile/public/svg/tournaments.svg)
+
+`https://paturages.github.io/osu-profile/public/svg/staffs.svg`
+![](https://paturages.github.io/osu-profile/public/svg/staffs.svg)
+
+`https://paturages.github.io/osu-profile/public/svg/dans.svg`
+![](https://paturages.github.io/osu-profile/public/svg/dans.svg)
+
+## Potential fixes
+
+- Refactor dan/staff/tournament components into one because I thought I'd need different implementations
+  while brainstorming; I came up with the idea of replicating osu!'s design on the fly whoops
