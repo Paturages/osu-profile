@@ -69,6 +69,7 @@
     display: inline-flex;
     flex-direction: column;
     justify-content: center;
+    border-radius: 0 10px 10px 0;
   }
   .percent {
     font-weight: bold;

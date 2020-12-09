@@ -74,5 +74,6 @@
     display: inline-flex;
     align-items: center;
     justify-content: flex-end;
+    border-radius: 0 10px 10px 0;
   }
 </style>
