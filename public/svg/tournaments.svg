@@ -1,7 +1,7 @@
 <svg fill="none" width="800" height="202" xmlns="http://www.w3.org/2000/svg">
-      <foreignObject width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-          <style>html,
+    <foreignObject width="100%" height="100%">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <style>html,
 body {
   position: relative;
   width: 100%;
@@ -20,7 +20,7 @@ body,
     "Apple SD Gothic Neo", sans-serif;
 }
 .tournament.svelte-193ri6w{font-size:12px;margin:2px 0;background:#46393f;border-radius:10px;display:flex}.title.svelte-193ri6w{font-size:14px}.description.svelte-193ri6w{color:rgb(255, 204, 34);margin-top:1px}.period.svelte-193ri6w{color:rgb(163, 143, 152);margin-left:1em}.left.svelte-193ri6w{flex:1;padding:.5em 1em;display:flex;flex-direction:column;justify-content:center}.right.svelte-193ri6w::before{content:"";background-color:#46393f;width:10px;height:100%;position:absolute;left:0;top:0;-webkit-clip-path:polygon(0 0,100% 50%,0 100%);clip-path:polygon(0 0,100% 50%,0 100%)}.right.svelte-193ri6w{padding:.5em .5em .5em 1em;text-align:right;position:relative;width:6em;color:rgb(255, 102, 171);background:#382e32;display:inline-flex;flex-direction:column;justify-content:center}</style>
-          <div class="container"><div class="tournament svelte-193ri6w"><div class="left svelte-193ri6w"><div class="title svelte-193ri6w">Mania Beginner&#39;s Showdown 2 (MBS2)</div>
+        <div class="container"><div class="tournament svelte-193ri6w"><div class="left svelte-193ri6w"><div class="title svelte-193ri6w">Mania Beginner&#39;s Showdown 2 (MBS2)</div>
     <div class="description svelte-193ri6w">10K-40K global rank restricted 4K mania
       <span class="period svelte-193ri6w">April-July 2020</span></div></div>
   <div class="right svelte-193ri6w"><div class="placement"><b>2nd</b></div>
@@ -41,6 +41,6 @@ body,
   <div class="right svelte-193ri6w"><div class="placement"><b>9th-12th</b></div>
     <div class="participants">/ 33</div></div>
 </div></div>
-        </div>
-      </foreignObject>
-    </svg>
+      </div>
+    </foreignObject>
+  </svg>
