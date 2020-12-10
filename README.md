@@ -30,8 +30,3 @@ https://paturages.github.io/osu-profile/public/svg/staffs.svg?v=691773ef9265caba
 
 https://paturages.github.io/osu-profile/public/svg/dans.svg?v=dd73c3f8bf0334c010d2253d4c42b09d
 ![](https://paturages.github.io/osu-profile/public/svg/dans.svg?v=dd73c3f8bf0334c010d2253d4c42b09d)
-
-## Potential fixes
-
-- Refactor dan/staff/tournament components into one because I thought I'd need different implementations
-  while brainstorming; I came up with the idea of replicating osu!'s design on the fly whoops
