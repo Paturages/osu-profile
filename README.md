@@ -7,7 +7,21 @@ images in osu! profiles is common and SVGs can be embedded as images, well...
 This hacked together project is tailored towards my own use and purposes, but feel free to fork
 and season to your heart's content.
 
-## Build your own
+## Build your own profile
+
+Quick and dirty editor: https://paturages.github.io/osu-profile/public/
+
+This is just something to quickly generate something that looks good enough. I'm too lazy to
+figure out something to export it in a neat manner, so you'll have to screenshot the browser page
+and crop it yourself :^)
+
+On the flipside, if you wanna add some items, you can generate the extra items and photoshop/paint
+insert them manually in the image, so you have that extra flexibility!
+
+You may or may not get better results by "inspect element hacking" on the osu! website directly
+though idk
+
+## Maintain your own code
 
 Make sure [Node.js](https://nodejs.org/en/) is installed (use whatever latest version).
 Install dependencies in the command line with `npm install`.
