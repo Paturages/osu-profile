@@ -110,6 +110,7 @@
 		background: #2a2226;
 		margin: 0;
 		height: 100%;
+		overflow-y: auto;
 	}
 	.content {
 		padding: 1em;
