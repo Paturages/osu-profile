@@ -4,9 +4,13 @@
 	import Staff from './components/Staff.svelte';
 	import Dan from './components/Dan.svelte';
 
-	let tournaments = [];
-	let staffs = [];
-	let dans = [];
+	const tournamentData = localStorage.getItem('tournaments');
+	const staffData = localStorage.getItem('staffs');
+	const danData = localStorage.getItem('dans');
+
+	let tournaments = tournamentData ? JSON.parse(tournamentData) : [];
+	let staffs = staffData ? JSON.parse(staffData) : [];
+	let dans = danData ? JSON.parse(danData) : [];
 
 	let tournament = {};
 	let staff = {};
@@ -15,14 +19,17 @@
 	const addTournament = () => {
 		tournaments = [...tournaments, tournament];
 		tournament = {};
+		localStorage.setItem('tournaments', JSON.stringify(tournaments));
 	};
 	const addStaff = () => {
 		staffs = [...staffs, staff];
 		staff = {};
+		localStorage.setItem('staffs', JSON.stringify(staffs));
 	};
 	const addDan = () => {
 		dans = [...dans, dan];
 		dan = {};
+		localStorage.setItem('dans', JSON.stringify(dans));
 	};
 	const removeTournament = () => {
 		tournaments = tournaments.slice(0, -1);
