@@ -20,4 +20,7 @@
     flex-direction: column;
     justify-content: center;
   }
+  .placement {
+    font-size: 14px;
+  }
 </style>

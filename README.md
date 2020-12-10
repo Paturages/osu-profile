@@ -36,11 +36,11 @@ the `public` directory and get links to the SVGs (see below for examples).
 
 You can add something like `?v=102831` to refresh browser caches if necessary.
 
-https://paturages.github.io/osu-profile/public/svg/tournaments.svg?v=658670646367db6863050efa980931c4
-![](https://paturages.github.io/osu-profile/public/svg/tournaments.svg?v=658670646367db6863050efa980931c4)
+https://paturages.github.io/osu-profile/public/svg/tournaments.svg?v=c6ec3da90932aa7868ab74eaad39361e
+![](https://paturages.github.io/osu-profile/public/svg/tournaments.svg?v=c6ec3da90932aa7868ab74eaad39361e)
 
 https://paturages.github.io/osu-profile/public/svg/staffs.svg?v=7e07d4fe3cd6f2032e97964ad54bb76c
 ![](https://paturages.github.io/osu-profile/public/svg/staffs.svg?v=7e07d4fe3cd6f2032e97964ad54bb76c)
 
-https://paturages.github.io/osu-profile/public/svg/dans.svg?v=5d05a639b5466129a83889d7021bffed
-![](https://paturages.github.io/osu-profile/public/svg/dans.svg?v=5d05a639b5466129a83889d7021bffed)
+https://paturages.github.io/osu-profile/public/svg/dans.svg?v=5dd0432a6b1abdd9438e8e0bf5c5b61c
+![](https://paturages.github.io/osu-profile/public/svg/dans.svg?v=5dd0432a6b1abdd9438e8e0bf5c5b61c)
