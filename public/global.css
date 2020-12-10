@@ -6,11 +6,9 @@ body {
 }
 
 body,
-.container {
-  background: #2a2226;
+.svg {
   color: #fff;
   margin: 0;
-  padding: 8px;
   box-sizing: border-box;
   font-family: Torus, Inter, "Helvetica Neue", Tahoma, Arial,
     "Hiragino Kaku Gothic ProN", Meiryo, "Microsoft YaHei",

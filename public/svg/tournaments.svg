@@ -9,37 +9,40 @@ body {
 }
 
 body,
-.container {
-  background: #2a2226;
+.svg {
   color: #fff;
   margin: 0;
-  padding: 8px;
   box-sizing: border-box;
   font-family: Torus, Inter, "Helvetica Neue", Tahoma, Arial,
     "Hiragino Kaku Gothic ProN", Meiryo, "Microsoft YaHei",
     "Apple SD Gothic Neo", sans-serif;
 }
-.tournament.svelte-1cg4k9c{font-size:12px;margin:2px 0;background:#46393f;border-radius:10px;display:flex}.title.svelte-1cg4k9c{font-size:14px}.description.svelte-1cg4k9c{color:rgb(255, 204, 34);margin-top:1px}.period.svelte-1cg4k9c{color:rgb(163, 143, 152);margin-left:1em}.left.svelte-1cg4k9c{flex:1;padding:.5em 1em;display:flex;flex-direction:column;justify-content:center}.right.svelte-1cg4k9c::before{content:"";background-color:#46393f;width:10px;height:100%;position:absolute;left:0;top:0;-webkit-clip-path:polygon(0 0,100% 50%,0 100%);clip-path:polygon(0 0,100% 50%,0 100%)}.right.svelte-1cg4k9c{padding:.5em .5em .5em 1em;text-align:right;position:relative;width:6em;color:rgb(255, 102, 171);background:#382e32;display:inline-flex;flex-direction:column;justify-content:center;border-radius:0 10px 10px 0}</style>
-        <div class="container"><div class="tournament svelte-1cg4k9c"><div class="left svelte-1cg4k9c"><div class="title svelte-1cg4k9c">Mania Beginner&#39;s Showdown 2 (MBS2)</div>
-    <div class="description svelte-1cg4k9c">10K-40K global rank restricted 4K mania
-      <span class="period svelte-1cg4k9c">April-July 2020</span></div></div>
-  <div class="right svelte-1cg4k9c"><div class="placement"><b>2nd</b></div>
+.content.svelte-6h9mka{display:inline-flex;flex-direction:column;justify-content:center}
+.osu-row.svelte-pf9sd5{font-size:12px;margin:2px 0;background:#46393f;border-radius:10px;display:flex}.title.svelte-pf9sd5{font-size:14px}.description.svelte-pf9sd5{color:rgb(255, 204, 34);margin-top:1px}.period.svelte-pf9sd5{color:rgb(163, 143, 152);margin-left:1em}.left.svelte-pf9sd5{flex:1;padding:.5em 1em;display:flex;flex-direction:column;justify-content:center}.right.svelte-pf9sd5::before{content:"";background-color:#46393f;width:10px;height:100%;position:absolute;left:0;top:0;-webkit-clip-path:polygon(0 0,100% 50%,0 100%);clip-path:polygon(0 0,100% 50%,0 100%)}.right.svelte-pf9sd5{padding:6px 6px 6px 12px;text-align:right;position:relative;width:72px;color:rgb(255, 102, 171);background:#382e32;display:inline-flex;flex-direction:column;justify-content:center;border-radius:0 10px 10px 0}</style>
+        <div class="svg"><div class="osu-row svelte-pf9sd5"><div class="left svelte-pf9sd5"><div class="title svelte-pf9sd5">Mania Beginner&#39;s Showdown 2 (MBS2)</div>
+    <div class="description svelte-pf9sd5">10K-40K global rank restricted 4K mania
+      <span class="period svelte-pf9sd5">April-July 2020</span></div></div>
+  <div class="right svelte-pf9sd5"><div class="content svelte-6h9mka"><div class="placement"><b>2nd</b></div>
     <div class="participants">/ 94</div></div>
-</div><div class="tournament svelte-1cg4k9c"><div class="left svelte-1cg4k9c"><div class="title svelte-1cg4k9c">Mania French Tournament 2020 (MFT2020)</div>
-    <div class="description svelte-1cg4k9c">Unrestricted French-speaking 4K mania
-      <span class="period svelte-1cg4k9c">June 2020</span></div></div>
-  <div class="right svelte-1cg4k9c"><div class="placement"><b>25th-32nd</b></div>
+</div>
+</div><div class="osu-row svelte-pf9sd5"><div class="left svelte-pf9sd5"><div class="title svelte-pf9sd5">Mania French Tournament 2020 (MFT2020)</div>
+    <div class="description svelte-pf9sd5">Unrestricted French-speaking 4K mania
+      <span class="period svelte-pf9sd5">June 2020</span></div></div>
+  <div class="right svelte-pf9sd5"><div class="content svelte-6h9mka"><div class="placement"><b>25th-32nd</b></div>
     <div class="participants">/ 42</div></div>
-</div><div class="tournament svelte-1cg4k9c"><div class="left svelte-1cg4k9c"><div class="title svelte-1cg4k9c">Jaye&#39;s One Key Event (JOKE)</div>
-    <div class="description svelte-1cg4k9c">Unrestricted 1K mania
-      <span class="period svelte-1cg4k9c">July-August 2020</span></div></div>
-  <div class="right svelte-1cg4k9c"><div class="placement"><b>7th-8th</b></div>
+</div>
+</div><div class="osu-row svelte-pf9sd5"><div class="left svelte-pf9sd5"><div class="title svelte-pf9sd5">Jaye&#39;s One Key Event (JOKE)</div>
+    <div class="description svelte-pf9sd5">Unrestricted 1K mania
+      <span class="period svelte-pf9sd5">July-August 2020</span></div></div>
+  <div class="right svelte-pf9sd5"><div class="content svelte-6h9mka"><div class="placement"><b>7th-8th</b></div>
     <div class="participants">/ 61</div></div>
-</div><div class="tournament svelte-1cg4k9c"><div class="left svelte-1cg4k9c"><div class="title svelte-1cg4k9c">Touhou Mania Cup 1 (TMC1)</div>
-    <div class="description svelte-1cg4k9c">2v2 sub-2K (4K) rank restricted mania
-      <span class="period svelte-1cg4k9c">October-November 2020</span></div></div>
-  <div class="right svelte-1cg4k9c"><div class="placement"><b>9th-12th</b></div>
+</div>
+</div><div class="osu-row svelte-pf9sd5"><div class="left svelte-pf9sd5"><div class="title svelte-pf9sd5">Touhou Mania Cup 1 (TMC1)</div>
+    <div class="description svelte-pf9sd5">2v2 sub-2K (4K) rank restricted mania
+      <span class="period svelte-pf9sd5">October-November 2020</span></div></div>
+  <div class="right svelte-pf9sd5"><div class="content svelte-6h9mka"><div class="placement"><b>9th-12th</b></div>
     <div class="participants">/ 33</div></div>
+</div>
 </div></div>
       </div>
     </foreignObject>

@@ -9,137 +9,160 @@ body {
 }
 
 body,
-.container {
-  background: #2a2226;
+.svg {
   color: #fff;
   margin: 0;
-  padding: 8px;
   box-sizing: border-box;
   font-family: Torus, Inter, "Helvetica Neue", Tahoma, Arial,
     "Hiragino Kaku Gothic ProN", Meiryo, "Microsoft YaHei",
     "Apple SD Gothic Neo", sans-serif;
 }
-.dan.svelte-1vc81u3{font-size:12px;margin:2px 0;background:#46393f;border-radius:10px;display:flex}.title.svelte-1vc81u3{font-size:14px}.description.svelte-1vc81u3{color:rgb(255, 204, 34);margin-top:1px}.period.svelte-1vc81u3{color:rgb(163, 143, 152);margin-left:1em}.left.svelte-1vc81u3{flex:1;padding:.5em 1em;display:flex;flex-direction:column;justify-content:center}.right.svelte-1vc81u3::before{content:"";background-color:#46393f;width:10px;height:100%;position:absolute;left:0;top:0;-webkit-clip-path:polygon(0 0,100% 50%,0 100%);clip-path:polygon(0 0,100% 50%,0 100%)}.right.svelte-1vc81u3{padding:6px 6px 6px 12px;text-align:right;position:relative;width:72px;color:rgb(255, 102, 171);background:#382e32;display:inline-flex;flex-direction:column;justify-content:center;border-radius:0 10px 10px 0}.percent.svelte-1vc81u3{font-weight:bold}</style>
-        <div class="container"><div class="dan svelte-1vc81u3"><div class="left svelte-1vc81u3"><div class="title svelte-1vc81u3">Reform Dans</div>
-    <div class="description svelte-1vc81u3">Dan 2
-      <span class="period svelte-1vc81u3">2020-01-31</span></div></div>
-  <div class="right svelte-1vc81u3"><div class="percent svelte-1vc81u3">99.06%</div>
-    </div>
-</div><div class="dan svelte-1vc81u3"><div class="left svelte-1vc81u3"><div class="title svelte-1vc81u3">Reform Dans</div>
-    <div class="description svelte-1vc81u3">Dan 4
-      <span class="period svelte-1vc81u3">2020-03-04</span></div></div>
-  <div class="right svelte-1vc81u3"><div class="percent svelte-1vc81u3">97.29%</div>
-    </div>
-</div><div class="dan svelte-1vc81u3"><div class="left svelte-1vc81u3"><div class="title svelte-1vc81u3">Reform Dans</div>
-    <div class="description svelte-1vc81u3">Dan 5
-      <span class="period svelte-1vc81u3">2020-06-27</span></div></div>
-  <div class="right svelte-1vc81u3"><div class="percent svelte-1vc81u3">96.88%</div>
-    </div>
-</div><div class="dan svelte-1vc81u3"><div class="left svelte-1vc81u3"><div class="title svelte-1vc81u3">Reform Dans</div>
-    <div class="description svelte-1vc81u3">Dan 6
-      <span class="period svelte-1vc81u3">2020-08-07</span></div></div>
-  <div class="right svelte-1vc81u3"><div class="percent svelte-1vc81u3">96.79%</div>
-    </div>
-</div><div class="dan svelte-1vc81u3"><div class="left svelte-1vc81u3"><div class="title svelte-1vc81u3">Shoegazer Dans</div>
-    <div class="description svelte-1vc81u3">Dan 1
-      <span class="period svelte-1vc81u3">2019-11-18</span></div></div>
-  <div class="right svelte-1vc81u3"><div class="percent svelte-1vc81u3">96.75%</div>
-    </div>
-</div><div class="dan svelte-1vc81u3"><div class="left svelte-1vc81u3"><div class="title svelte-1vc81u3">Shoegazer Dans</div>
-    <div class="description svelte-1vc81u3">Dan 2
-      <span class="period svelte-1vc81u3">2019-11-30</span></div></div>
-  <div class="right svelte-1vc81u3"><div class="percent svelte-1vc81u3">96.93%</div>
-    </div>
-</div><div class="dan svelte-1vc81u3"><div class="left svelte-1vc81u3"><div class="title svelte-1vc81u3">Shoegazer Dans</div>
-    <div class="description svelte-1vc81u3">Dan 3
-      <span class="period svelte-1vc81u3">2019-11-30</span></div></div>
-  <div class="right svelte-1vc81u3"><div class="percent svelte-1vc81u3">96.89%</div>
-    </div>
-</div><div class="dan svelte-1vc81u3"><div class="left svelte-1vc81u3"><div class="title svelte-1vc81u3">Shoegazer Dans</div>
-    <div class="description svelte-1vc81u3">Dan 4
-      <span class="period svelte-1vc81u3">2020-05-04</span></div></div>
-  <div class="right svelte-1vc81u3"><div class="percent svelte-1vc81u3">97.87%</div>
-    </div>
-</div><div class="dan svelte-1vc81u3"><div class="left svelte-1vc81u3"><div class="title svelte-1vc81u3">Shoegazer Dans</div>
-    <div class="description svelte-1vc81u3">Dan 5
-      <span class="period svelte-1vc81u3">2020-06-18</span></div></div>
-  <div class="right svelte-1vc81u3"><div class="percent svelte-1vc81u3">96.49%</div>
-    </div>
-</div><div class="dan svelte-1vc81u3"><div class="left svelte-1vc81u3"><div class="title svelte-1vc81u3">Shoegazer Dans</div>
-    <div class="description svelte-1vc81u3">Dan 6
-      <span class="period svelte-1vc81u3">2020-10-06</span></div></div>
-  <div class="right svelte-1vc81u3"><div class="percent svelte-1vc81u3">96.42%</div>
-    </div>
-</div><div class="dan svelte-1vc81u3"><div class="left svelte-1vc81u3"><div class="title svelte-1vc81u3">Accuracy Dans</div>
-    <div class="description svelte-1vc81u3">Dan 8
-      <span class="period svelte-1vc81u3">2020-06-06</span></div></div>
-  <div class="right svelte-1vc81u3"><div class="percent svelte-1vc81u3">clear!</div>
-    </div>
-</div><div class="dan svelte-1vc81u3"><div class="left svelte-1vc81u3"><div class="title svelte-1vc81u3">arcwinolivirus LN Dans</div>
-    <div class="description svelte-1vc81u3">Tier I
-      <span class="period svelte-1vc81u3">2020-05-05</span></div></div>
-  <div class="right svelte-1vc81u3"><div class="percent svelte-1vc81u3">99.20%</div>
-    <div class="v2">(v2)</div></div>
-</div><div class="dan svelte-1vc81u3"><div class="left svelte-1vc81u3"><div class="title svelte-1vc81u3">arcwinolivirus LN Dans</div>
-    <div class="description svelte-1vc81u3">Tier II
-      <span class="period svelte-1vc81u3">2020-05-05</span></div></div>
-  <div class="right svelte-1vc81u3"><div class="percent svelte-1vc81u3">97.86%</div>
-    <div class="v2">(v2)</div></div>
-</div><div class="dan svelte-1vc81u3"><div class="left svelte-1vc81u3"><div class="title svelte-1vc81u3">arcwinolivirus LN Dans</div>
-    <div class="description svelte-1vc81u3">Tier III
-      <span class="period svelte-1vc81u3">2020-05-05</span></div></div>
-  <div class="right svelte-1vc81u3"><div class="percent svelte-1vc81u3">98.07%</div>
-    <div class="v2">(v2)</div></div>
-</div><div class="dan svelte-1vc81u3"><div class="left svelte-1vc81u3"><div class="title svelte-1vc81u3">arcwinolivirus LN Dans</div>
-    <div class="description svelte-1vc81u3">Tier IV
-      <span class="period svelte-1vc81u3">2020-05-08</span></div></div>
-  <div class="right svelte-1vc81u3"><div class="percent svelte-1vc81u3">96.68%</div>
-    </div>
-</div><div class="dan svelte-1vc81u3"><div class="left svelte-1vc81u3"><div class="title svelte-1vc81u3">arcwinolivirus LN Dans</div>
-    <div class="description svelte-1vc81u3">Tier V
-      <span class="period svelte-1vc81u3">2020-05-19</span></div></div>
-  <div class="right svelte-1vc81u3"><div class="percent svelte-1vc81u3">96.97%</div>
-    <div class="v2">(v2)</div></div>
-</div><div class="dan svelte-1vc81u3"><div class="left svelte-1vc81u3"><div class="title svelte-1vc81u3">arcwinolivirus LN Dans</div>
-    <div class="description svelte-1vc81u3">Tier VI
-      <span class="period svelte-1vc81u3">2020-07-02</span></div></div>
-  <div class="right svelte-1vc81u3"><div class="percent svelte-1vc81u3">96.54%</div>
-    <div class="v2">(v2)</div></div>
-</div><div class="dan svelte-1vc81u3"><div class="left svelte-1vc81u3"><div class="title svelte-1vc81u3">arcwinolivirus LN Dans</div>
-    <div class="description svelte-1vc81u3">Tier VII
-      <span class="period svelte-1vc81u3">2020-11-06</span></div></div>
-  <div class="right svelte-1vc81u3"><div class="percent svelte-1vc81u3">96.57%</div>
-    </div>
-</div><div class="dan svelte-1vc81u3"><div class="left svelte-1vc81u3"><div class="title svelte-1vc81u3">_underjoy LN Dans</div>
-    <div class="description svelte-1vc81u3">Dan 1
-      <span class="period svelte-1vc81u3">2020-05-12</span></div></div>
-  <div class="right svelte-1vc81u3"><div class="percent svelte-1vc81u3">97.66%</div>
-    <div class="v2">(v2)</div></div>
-</div><div class="dan svelte-1vc81u3"><div class="left svelte-1vc81u3"><div class="title svelte-1vc81u3">_underjoy LN Dans</div>
-    <div class="description svelte-1vc81u3">Dan 2
-      <span class="period svelte-1vc81u3">2020-05-19</span></div></div>
-  <div class="right svelte-1vc81u3"><div class="percent svelte-1vc81u3">97.38%</div>
-    <div class="v2">(v2)</div></div>
-</div><div class="dan svelte-1vc81u3"><div class="left svelte-1vc81u3"><div class="title svelte-1vc81u3">_underjoy LN Dans</div>
-    <div class="description svelte-1vc81u3">Dan 3
-      <span class="period svelte-1vc81u3">2020-07-02</span></div></div>
-  <div class="right svelte-1vc81u3"><div class="percent svelte-1vc81u3">96.55%</div>
-    <div class="v2">(v2)</div></div>
-</div><div class="dan svelte-1vc81u3"><div class="left svelte-1vc81u3"><div class="title svelte-1vc81u3">_underjoy LN Dans</div>
-    <div class="description svelte-1vc81u3">Dan 4
-      <span class="period svelte-1vc81u3">2020-07-02</span></div></div>
-  <div class="right svelte-1vc81u3"><div class="percent svelte-1vc81u3">96.54%</div>
-    <div class="v2">(v2)</div></div>
-</div><div class="dan svelte-1vc81u3"><div class="left svelte-1vc81u3"><div class="title svelte-1vc81u3">_underjoy LN Dans</div>
-    <div class="description svelte-1vc81u3">Dan 5
-      <span class="period svelte-1vc81u3">2020-07-18</span></div></div>
-  <div class="right svelte-1vc81u3"><div class="percent svelte-1vc81u3">96.39%</div>
-    <div class="v2">(v2)</div></div>
-</div><div class="dan svelte-1vc81u3"><div class="left svelte-1vc81u3"><div class="title svelte-1vc81u3">_underjoy LN Dans</div>
-    <div class="description svelte-1vc81u3">Dan 6
-      <span class="period svelte-1vc81u3">2020-10-22</span></div></div>
-  <div class="right svelte-1vc81u3"><div class="percent svelte-1vc81u3">96.44%</div>
-    <div class="v2">(v2)</div></div>
+.percent.svelte-u84hv4{font-weight:bold}
+.osu-row.svelte-pf9sd5{font-size:12px;margin:2px 0;background:#46393f;border-radius:10px;display:flex}.title.svelte-pf9sd5{font-size:14px}.description.svelte-pf9sd5{color:rgb(255, 204, 34);margin-top:1px}.period.svelte-pf9sd5{color:rgb(163, 143, 152);margin-left:1em}.left.svelte-pf9sd5{flex:1;padding:.5em 1em;display:flex;flex-direction:column;justify-content:center}.right.svelte-pf9sd5::before{content:"";background-color:#46393f;width:10px;height:100%;position:absolute;left:0;top:0;-webkit-clip-path:polygon(0 0,100% 50%,0 100%);clip-path:polygon(0 0,100% 50%,0 100%)}.right.svelte-pf9sd5{padding:6px 6px 6px 12px;text-align:right;position:relative;width:72px;color:rgb(255, 102, 171);background:#382e32;display:inline-flex;flex-direction:column;justify-content:center;border-radius:0 10px 10px 0}</style>
+        <div class="svg"><div class="osu-row svelte-pf9sd5"><div class="left svelte-pf9sd5"><div class="title svelte-pf9sd5">Reform Dans</div>
+    <div class="description svelte-pf9sd5">Dan 2
+      <span class="period svelte-pf9sd5">2020-01-31</span></div></div>
+  <div class="right svelte-pf9sd5"><div class="percent svelte-u84hv4">99.06%</div>
+  
+</div>
+</div><div class="osu-row svelte-pf9sd5"><div class="left svelte-pf9sd5"><div class="title svelte-pf9sd5">Reform Dans</div>
+    <div class="description svelte-pf9sd5">Dan 4
+      <span class="period svelte-pf9sd5">2020-03-04</span></div></div>
+  <div class="right svelte-pf9sd5"><div class="percent svelte-u84hv4">97.29%</div>
+  
+</div>
+</div><div class="osu-row svelte-pf9sd5"><div class="left svelte-pf9sd5"><div class="title svelte-pf9sd5">Reform Dans</div>
+    <div class="description svelte-pf9sd5">Dan 5
+      <span class="period svelte-pf9sd5">2020-06-27</span></div></div>
+  <div class="right svelte-pf9sd5"><div class="percent svelte-u84hv4">96.88%</div>
+  
+</div>
+</div><div class="osu-row svelte-pf9sd5"><div class="left svelte-pf9sd5"><div class="title svelte-pf9sd5">Reform Dans</div>
+    <div class="description svelte-pf9sd5">Dan 6
+      <span class="period svelte-pf9sd5">2020-08-07</span></div></div>
+  <div class="right svelte-pf9sd5"><div class="percent svelte-u84hv4">96.79%</div>
+  
+</div>
+</div><div class="osu-row svelte-pf9sd5"><div class="left svelte-pf9sd5"><div class="title svelte-pf9sd5">Shoegazer Dans</div>
+    <div class="description svelte-pf9sd5">Dan 1
+      <span class="period svelte-pf9sd5">2019-11-18</span></div></div>
+  <div class="right svelte-pf9sd5"><div class="percent svelte-u84hv4">96.75%</div>
+  
+</div>
+</div><div class="osu-row svelte-pf9sd5"><div class="left svelte-pf9sd5"><div class="title svelte-pf9sd5">Shoegazer Dans</div>
+    <div class="description svelte-pf9sd5">Dan 2
+      <span class="period svelte-pf9sd5">2019-11-30</span></div></div>
+  <div class="right svelte-pf9sd5"><div class="percent svelte-u84hv4">96.93%</div>
+  
+</div>
+</div><div class="osu-row svelte-pf9sd5"><div class="left svelte-pf9sd5"><div class="title svelte-pf9sd5">Shoegazer Dans</div>
+    <div class="description svelte-pf9sd5">Dan 3
+      <span class="period svelte-pf9sd5">2019-11-30</span></div></div>
+  <div class="right svelte-pf9sd5"><div class="percent svelte-u84hv4">96.89%</div>
+  
+</div>
+</div><div class="osu-row svelte-pf9sd5"><div class="left svelte-pf9sd5"><div class="title svelte-pf9sd5">Shoegazer Dans</div>
+    <div class="description svelte-pf9sd5">Dan 4
+      <span class="period svelte-pf9sd5">2020-05-04</span></div></div>
+  <div class="right svelte-pf9sd5"><div class="percent svelte-u84hv4">97.87%</div>
+  
+</div>
+</div><div class="osu-row svelte-pf9sd5"><div class="left svelte-pf9sd5"><div class="title svelte-pf9sd5">Shoegazer Dans</div>
+    <div class="description svelte-pf9sd5">Dan 5
+      <span class="period svelte-pf9sd5">2020-06-18</span></div></div>
+  <div class="right svelte-pf9sd5"><div class="percent svelte-u84hv4">96.49%</div>
+  
+</div>
+</div><div class="osu-row svelte-pf9sd5"><div class="left svelte-pf9sd5"><div class="title svelte-pf9sd5">Shoegazer Dans</div>
+    <div class="description svelte-pf9sd5">Dan 6
+      <span class="period svelte-pf9sd5">2020-10-06</span></div></div>
+  <div class="right svelte-pf9sd5"><div class="percent svelte-u84hv4">96.42%</div>
+  
+</div>
+</div><div class="osu-row svelte-pf9sd5"><div class="left svelte-pf9sd5"><div class="title svelte-pf9sd5">Accuracy Dans</div>
+    <div class="description svelte-pf9sd5">Dan 8
+      <span class="period svelte-pf9sd5">2020-06-06</span></div></div>
+  <div class="right svelte-pf9sd5"><div class="percent svelte-u84hv4">clear!</div>
+  
+</div>
+</div><div class="osu-row svelte-pf9sd5"><div class="left svelte-pf9sd5"><div class="title svelte-pf9sd5">arcwinolivirus LN Dans</div>
+    <div class="description svelte-pf9sd5">Tier I
+      <span class="period svelte-pf9sd5">2020-05-05</span></div></div>
+  <div class="right svelte-pf9sd5"><div class="percent svelte-u84hv4">99.20%</div>
+  <div class="v2">(v2)</div>
+</div>
+</div><div class="osu-row svelte-pf9sd5"><div class="left svelte-pf9sd5"><div class="title svelte-pf9sd5">arcwinolivirus LN Dans</div>
+    <div class="description svelte-pf9sd5">Tier II
+      <span class="period svelte-pf9sd5">2020-05-05</span></div></div>
+  <div class="right svelte-pf9sd5"><div class="percent svelte-u84hv4">97.86%</div>
+  <div class="v2">(v2)</div>
+</div>
+</div><div class="osu-row svelte-pf9sd5"><div class="left svelte-pf9sd5"><div class="title svelte-pf9sd5">arcwinolivirus LN Dans</div>
+    <div class="description svelte-pf9sd5">Tier III
+      <span class="period svelte-pf9sd5">2020-05-05</span></div></div>
+  <div class="right svelte-pf9sd5"><div class="percent svelte-u84hv4">98.07%</div>
+  <div class="v2">(v2)</div>
+</div>
+</div><div class="osu-row svelte-pf9sd5"><div class="left svelte-pf9sd5"><div class="title svelte-pf9sd5">arcwinolivirus LN Dans</div>
+    <div class="description svelte-pf9sd5">Tier IV
+      <span class="period svelte-pf9sd5">2020-05-08</span></div></div>
+  <div class="right svelte-pf9sd5"><div class="percent svelte-u84hv4">96.68%</div>
+  
+</div>
+</div><div class="osu-row svelte-pf9sd5"><div class="left svelte-pf9sd5"><div class="title svelte-pf9sd5">arcwinolivirus LN Dans</div>
+    <div class="description svelte-pf9sd5">Tier V
+      <span class="period svelte-pf9sd5">2020-05-19</span></div></div>
+  <div class="right svelte-pf9sd5"><div class="percent svelte-u84hv4">96.97%</div>
+  <div class="v2">(v2)</div>
+</div>
+</div><div class="osu-row svelte-pf9sd5"><div class="left svelte-pf9sd5"><div class="title svelte-pf9sd5">arcwinolivirus LN Dans</div>
+    <div class="description svelte-pf9sd5">Tier VI
+      <span class="period svelte-pf9sd5">2020-07-02</span></div></div>
+  <div class="right svelte-pf9sd5"><div class="percent svelte-u84hv4">96.54%</div>
+  <div class="v2">(v2)</div>
+</div>
+</div><div class="osu-row svelte-pf9sd5"><div class="left svelte-pf9sd5"><div class="title svelte-pf9sd5">arcwinolivirus LN Dans</div>
+    <div class="description svelte-pf9sd5">Tier VII
+      <span class="period svelte-pf9sd5">2020-11-06</span></div></div>
+  <div class="right svelte-pf9sd5"><div class="percent svelte-u84hv4">96.57%</div>
+  
+</div>
+</div><div class="osu-row svelte-pf9sd5"><div class="left svelte-pf9sd5"><div class="title svelte-pf9sd5">_underjoy LN Dans</div>
+    <div class="description svelte-pf9sd5">Dan 1
+      <span class="period svelte-pf9sd5">2020-05-12</span></div></div>
+  <div class="right svelte-pf9sd5"><div class="percent svelte-u84hv4">97.66%</div>
+  <div class="v2">(v2)</div>
+</div>
+</div><div class="osu-row svelte-pf9sd5"><div class="left svelte-pf9sd5"><div class="title svelte-pf9sd5">_underjoy LN Dans</div>
+    <div class="description svelte-pf9sd5">Dan 2
+      <span class="period svelte-pf9sd5">2020-05-19</span></div></div>
+  <div class="right svelte-pf9sd5"><div class="percent svelte-u84hv4">97.38%</div>
+  <div class="v2">(v2)</div>
+</div>
+</div><div class="osu-row svelte-pf9sd5"><div class="left svelte-pf9sd5"><div class="title svelte-pf9sd5">_underjoy LN Dans</div>
+    <div class="description svelte-pf9sd5">Dan 3
+      <span class="period svelte-pf9sd5">2020-07-02</span></div></div>
+  <div class="right svelte-pf9sd5"><div class="percent svelte-u84hv4">96.55%</div>
+  <div class="v2">(v2)</div>
+</div>
+</div><div class="osu-row svelte-pf9sd5"><div class="left svelte-pf9sd5"><div class="title svelte-pf9sd5">_underjoy LN Dans</div>
+    <div class="description svelte-pf9sd5">Dan 4
+      <span class="period svelte-pf9sd5">2020-07-02</span></div></div>
+  <div class="right svelte-pf9sd5"><div class="percent svelte-u84hv4">96.54%</div>
+  <div class="v2">(v2)</div>
+</div>
+</div><div class="osu-row svelte-pf9sd5"><div class="left svelte-pf9sd5"><div class="title svelte-pf9sd5">_underjoy LN Dans</div>
+    <div class="description svelte-pf9sd5">Dan 5
+      <span class="period svelte-pf9sd5">2020-07-18</span></div></div>
+  <div class="right svelte-pf9sd5"><div class="percent svelte-u84hv4">96.39%</div>
+  <div class="v2">(v2)</div>
+</div>
+</div><div class="osu-row svelte-pf9sd5"><div class="left svelte-pf9sd5"><div class="title svelte-pf9sd5">_underjoy LN Dans</div>
+    <div class="description svelte-pf9sd5">Dan 6
+      <span class="period svelte-pf9sd5">2020-10-22</span></div></div>
+  <div class="right svelte-pf9sd5"><div class="percent svelte-u84hv4">96.44%</div>
+  <div class="v2">(v2)</div>
+</div>
 </div></div>
       </div>
     </foreignObject>
