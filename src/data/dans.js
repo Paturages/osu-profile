@@ -23,6 +23,12 @@ const reform = [
     percent: "96.79%",
     date: "2020-08-07",
   },
+  {
+    name: "Reform Dans",
+    grade: "Dan 7",
+    percent: "97.15%",
+    date: "2020-12-13",
+  },
 ];
 
 const shoegazer = [
