@@ -31,4 +31,12 @@ module.exports = [
     participants: 33,
     period: "October-November 2020",
   },
+  {
+    name: "4-Digit osu!mania 4K World Cup 3",
+    short: "4DMWC3",
+    description: "First world cup experience",
+    placement: "-",
+    participants: "-",
+    period: "Upcoming",
+  },
 ];
