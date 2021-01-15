@@ -33,11 +33,11 @@ body,
     "Apple SD Gothic Neo", sans-serif;
 }
 .content.svelte-1o80a37{font-size:16px;display:inline-flex;align-items:center;justify-content:flex-end}
-.osu-row.svelte-pf9sd5{font-size:12px;margin:2px 0;background:#46393f;border-radius:10px;display:flex}.title.svelte-pf9sd5{font-size:14px}.description.svelte-pf9sd5{color:rgb(255, 204, 34);margin-top:1px}.period.svelte-pf9sd5{color:rgb(163, 143, 152);margin-left:1em}.left.svelte-pf9sd5{flex:1;padding:.5em 1em;display:flex;flex-direction:column;justify-content:center}.right.svelte-pf9sd5::before{content:"";background-color:#46393f;width:10px;height:100%;position:absolute;left:0;top:0;-webkit-clip-path:polygon(0 0,100% 50%,0 100%);clip-path:polygon(0 0,100% 50%,0 100%)}.right.svelte-pf9sd5{padding:6px 6px 6px 12px;text-align:right;position:relative;width:72px;color:rgb(255, 102, 171);background:#382e32;display:inline-flex;flex-direction:column;justify-content:center;border-radius:0 10px 10px 0}</style>
-        <div class="svg"><div class="osu-row svelte-pf9sd5"><div class="left svelte-pf9sd5"><div class="title svelte-pf9sd5">Mania Beginner&#39;s Showdown 2 (MBS2)</div>
-    <div class="description svelte-pf9sd5">The simultaneous streaming/casting debut
-      <span class="period svelte-pf9sd5">April-July 2020</span></div></div>
-  <div class="right svelte-pf9sd5"><div class="content svelte-1o80a37">📺
+.osu-row.svelte-1nrfblb{font-size:12px;margin:2px 0;background:#46393f;border-radius:10px;display:flex}.title.svelte-1nrfblb{font-size:14px}.description.svelte-1nrfblb{color:rgb(255, 204, 34);margin-top:1px}.period.svelte-1nrfblb{color:rgb(163, 143, 152);margin-left:1em}.left.svelte-1nrfblb{flex:1;padding:.5em 1em;display:flex;flex-direction:column;justify-content:center}.right.svelte-1nrfblb::before{content:"";background-color:#46393f;width:10px;height:100%;position:absolute;left:0;top:0;-webkit-clip-path:polygon(0 0,100% 50%,0 100%);clip-path:polygon(0 0,100% 50%,0 100%)}.right.svelte-1nrfblb{padding:6px 6px 6px 12px;text-align:right;position:relative;width:85px;color:rgb(255, 102, 171);background:#382e32;display:inline-flex;flex-direction:column;justify-content:center;border-radius:0 10px 10px 0}</style>
+        <div class="svg"><div class="osu-row svelte-1nrfblb"><div class="left svelte-1nrfblb"><div class="title svelte-1nrfblb">Mania Beginner&#39;s Showdown 2 (MBS2)</div>
+    <div class="description svelte-1nrfblb">The simultaneous streaming/casting debut
+      <span class="period svelte-1nrfblb">April-July 2020</span></div></div>
+  <div class="right svelte-1nrfblb"><div class="content svelte-1o80a37">📺
     🎙️
     
     
@@ -45,10 +45,10 @@ body,
     
     </div>
 </div>
-</div><div class="osu-row svelte-pf9sd5"><div class="left svelte-pf9sd5"><div class="title svelte-pf9sd5">Expert Global Taiko Showdown (EGTS)</div>
-    <div class="description svelte-pf9sd5">Emergency streaming for late phases
-      <span class="period svelte-pf9sd5">July 2020</span></div></div>
-  <div class="right svelte-pf9sd5"><div class="content svelte-1o80a37">📺
+</div><div class="osu-row svelte-1nrfblb"><div class="left svelte-1nrfblb"><div class="title svelte-1nrfblb">Expert Global Taiko Showdown (EGTS)</div>
+    <div class="description svelte-1nrfblb">Emergency streaming for late phases
+      <span class="period svelte-1nrfblb">July 2020</span></div></div>
+  <div class="right svelte-1nrfblb"><div class="content svelte-1o80a37">📺
     
     
     
@@ -56,10 +56,10 @@ body,
     
     </div>
 </div>
-</div><div class="osu-row svelte-pf9sd5"><div class="left svelte-pf9sd5"><div class="title svelte-pf9sd5">Jaye&#39;s One Key Event (JOKE)</div>
-    <div class="description svelte-pf9sd5">Some early round casting
-      <span class="period svelte-pf9sd5">July-August 2020</span></div></div>
-  <div class="right svelte-pf9sd5"><div class="content svelte-1o80a37">
+</div><div class="osu-row svelte-1nrfblb"><div class="left svelte-1nrfblb"><div class="title svelte-1nrfblb">Jaye&#39;s One Key Event (JOKE)</div>
+    <div class="description svelte-1nrfblb">Some early round casting
+      <span class="period svelte-1nrfblb">July-August 2020</span></div></div>
+  <div class="right svelte-1nrfblb"><div class="content svelte-1o80a37">
     🎙️
     
     
@@ -67,10 +67,10 @@ body,
     
     </div>
 </div>
-</div><div class="osu-row svelte-pf9sd5"><div class="left svelte-pf9sd5"><div class="title svelte-pf9sd5">osu!mania 4K World Cup 2020 (MWC4K2020)</div>
-    <div class="description svelte-pf9sd5">First MWC casting!
-      <span class="period svelte-pf9sd5">August-September 2020</span></div></div>
-  <div class="right svelte-pf9sd5"><div class="content svelte-1o80a37">
+</div><div class="osu-row svelte-1nrfblb"><div class="left svelte-1nrfblb"><div class="title svelte-1nrfblb">osu!mania 4K World Cup 2020 (MWC4K2020)</div>
+    <div class="description svelte-1nrfblb">First MWC casting!
+      <span class="period svelte-1nrfblb">August-September 2020</span></div></div>
+  <div class="right svelte-1nrfblb"><div class="content svelte-1o80a37">
     🎙️
     
     
@@ -78,10 +78,10 @@ body,
     
     </div>
 </div>
-</div><div class="osu-row svelte-pf9sd5"><div class="left svelte-pf9sd5"><div class="title svelte-pf9sd5">Get BMS Confined 2</div>
-    <div class="description svelte-pf9sd5">Praise PouletFurtif and Odin
-      <span class="period svelte-pf9sd5">November 2020</span></div></div>
-  <div class="right svelte-pf9sd5"><div class="content svelte-1o80a37">📺
+</div><div class="osu-row svelte-1nrfblb"><div class="left svelte-1nrfblb"><div class="title svelte-1nrfblb">Get BMS Confined 2</div>
+    <div class="description svelte-1nrfblb">Praise PouletFurtif and Odin
+      <span class="period svelte-1nrfblb">November 2020</span></div></div>
+  <div class="right svelte-1nrfblb"><div class="content svelte-1o80a37">📺
     🎙️
     👮
     
@@ -89,10 +89,10 @@ body,
     
     </div>
 </div>
-</div><div class="osu-row svelte-pf9sd5"><div class="left svelte-pf9sd5"><div class="title svelte-pf9sd5">Mania 7K French Tournament (MFT7K)</div>
-    <div class="description svelte-pf9sd5">
-      <span class="period svelte-pf9sd5">Upcoming</span></div></div>
-  <div class="right svelte-pf9sd5"><div class="content svelte-1o80a37">
+</div><div class="osu-row svelte-1nrfblb"><div class="left svelte-1nrfblb"><div class="title svelte-1nrfblb">Mania 7K French Tournament (MFT7K)</div>
+    <div class="description svelte-1nrfblb">
+      <span class="period svelte-1nrfblb">Upcoming</span></div></div>
+  <div class="right svelte-1nrfblb"><div class="content svelte-1o80a37">
     🎙️
     
     
@@ -100,10 +100,10 @@ body,
     
     </div>
 </div>
-</div><div class="osu-row svelte-pf9sd5"><div class="left svelte-pf9sd5"><div class="title svelte-pf9sd5">4-Digit osu!mania 4K World Cup 3 (4DMWC3)</div>
-    <div class="description svelte-pf9sd5">
-      <span class="period svelte-pf9sd5">Upcoming</span></div></div>
-  <div class="right svelte-pf9sd5"><div class="content svelte-1o80a37">
+</div><div class="osu-row svelte-1nrfblb"><div class="left svelte-1nrfblb"><div class="title svelte-1nrfblb">4-Digit osu!mania 4K World Cup 3 (4DMWC3)</div>
+    <div class="description svelte-1nrfblb">
+      <span class="period svelte-1nrfblb">Upcoming</span></div></div>
+  <div class="right svelte-1nrfblb"><div class="content svelte-1o80a37">
     🎙️
     
     
@@ -111,10 +111,10 @@ body,
     
     </div>
 </div>
-</div><div class="osu-row svelte-pf9sd5"><div class="left svelte-pf9sd5"><div class="title svelte-pf9sd5">Springtime osu!mania Free-for-all Tournament 5 (SOFT5)</div>
-    <div class="description svelte-pf9sd5">
-      <span class="period svelte-pf9sd5">Upcoming</span></div></div>
-  <div class="right svelte-pf9sd5"><div class="content svelte-1o80a37">
+</div><div class="osu-row svelte-1nrfblb"><div class="left svelte-1nrfblb"><div class="title svelte-1nrfblb">Springtime osu!mania Free-for-all Tournament 5 (SOFT5)</div>
+    <div class="description svelte-1nrfblb">
+      <span class="period svelte-1nrfblb">Upcoming</span></div></div>
+  <div class="right svelte-1nrfblb"><div class="content svelte-1o80a37">
     🎙️
     
     
@@ -122,10 +122,10 @@ body,
     
     </div>
 </div>
-</div><div class="osu-row svelte-pf9sd5"><div class="left svelte-pf9sd5"><div class="title svelte-pf9sd5">Mistrzostwa Polski 4K 5 (MP4K5)</div>
-    <div class="description svelte-pf9sd5">Polish national tournament
-      <span class="period svelte-pf9sd5">Upcoming</span></div></div>
-  <div class="right svelte-pf9sd5"><div class="content svelte-1o80a37">
+</div><div class="osu-row svelte-1nrfblb"><div class="left svelte-1nrfblb"><div class="title svelte-1nrfblb">Mistrzostwa Polski 4K 5 (MP4K5)</div>
+    <div class="description svelte-1nrfblb">Polish national tournament
+      <span class="period svelte-1nrfblb">Upcoming</span></div></div>
+  <div class="right svelte-1nrfblb"><div class="content svelte-1o80a37">
     
     👮
     🎶
@@ -133,10 +133,10 @@ body,
     
     </div>
 </div>
-</div><div class="osu-row svelte-pf9sd5"><div class="left svelte-pf9sd5"><div class="title svelte-pf9sd5">Mania Beginner&#39;s Showdown 3 (MBS3)</div>
-    <div class="description svelte-pf9sd5">Hosted with Davvy
-      <span class="period svelte-pf9sd5">Upcoming</span></div></div>
-  <div class="right svelte-pf9sd5"><div class="content svelte-1o80a37">📺
+</div><div class="osu-row svelte-1nrfblb"><div class="left svelte-1nrfblb"><div class="title svelte-1nrfblb">Mania Beginner&#39;s Showdown 3 (MBS3)</div>
+    <div class="description svelte-1nrfblb">Hosted with Davvy
+      <span class="period svelte-1nrfblb">Upcoming</span></div></div>
+  <div class="right svelte-1nrfblb"><div class="content svelte-1o80a37">📺
     🎙️
     👮
     🎶

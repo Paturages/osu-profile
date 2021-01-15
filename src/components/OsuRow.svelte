@@ -58,7 +58,7 @@
     padding: 6px 6px 6px 12px;
     text-align: right;
     position: relative;
-    width: 72px;
+    width: 85px;
     color: rgb(255, 102, 171);
     background: #382e32;
     display: inline-flex;
