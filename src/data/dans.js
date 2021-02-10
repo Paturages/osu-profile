@@ -163,6 +163,13 @@ const underjoy = [
     date: "2020-10-22",
     v2: true,
   },
+  {
+    name: "_underjoy LN Dans",
+    grade: "Dan 7",
+    percent: "96.16%",
+    date: "2021-02-10",
+    v2: true,
+  },
 ];
 
 module.exports = [

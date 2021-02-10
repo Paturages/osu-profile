@@ -36,7 +36,7 @@ module.exports = [
     short: "4DMWC3",
     description: "First world cup experience",
     placement: "-",
-    participants: "-",
-    period: "Upcoming",
+    participants: "34",
+    period: "January-March 2021",
   },
 ];
