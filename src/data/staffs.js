@@ -39,13 +39,12 @@ module.exports = [
   {
     name: "Mania 7K French Tournament",
     short: "MFT7K",
-    description: "",
+    description: "I don't even play 7K lmao",
     period: "January 2021",
     commentary: true,
   },
   {
     name: "osu!Chile All-Modes",
-    short: "MFT7K",
     description: "Mania pooling with mint, guden and chxu",
     period: "January 2021",
     mappool: true
