@@ -72,6 +72,14 @@ module.exports = [
     mappool: true,
   },
   {
+    name: "Benelux Tournament 2021",
+    short: "BNL2021",
+    description: "Giving a helping hand to the Naroomba",
+    period: "March-May 2021",
+    referee: true,
+    commentary: true
+  },
+  {
     name: "Mania Beginner's Showdown 3",
     short: "MBS3",
     description: "Hosted with Davvy",
@@ -83,4 +91,14 @@ module.exports = [
     mappool: true,
     mapper: true,
   },
+  {
+    name: 'SV Summer Exhibition',
+    short: 'SVSE',
+    description: 'A 100% SV tournament',
+    period: 'Summer 2021',
+    mappool: true,
+    mapper: true,
+    referee: true,
+    commentary: true
+  }
 ];
