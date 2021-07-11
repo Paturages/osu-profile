@@ -8,8 +8,8 @@ module.exports = [
     period: "April-July 2020",
   },
   {
-    name: "Mania French Tournament 2020",
-    short: "MFT2020",
+    name: "Mania 4K French Tournament 2020",
+    short: "MFT4K2020",
     description: `Unrestricted French-speaking 4K mania`,
     placement: "25th-32nd",
     participants: 42,
@@ -38,5 +38,21 @@ module.exports = [
     placement: "5th-6th",
     participants: 34,
     period: "January-March 2021",
+  },
+  {
+    name: "ReadyUp, Game, Win! Pro Mania 1",
+    short: "RGW1",
+    description: `1K-10K rank range`,
+    placement: "13th-16th",
+    participants: 38,
+    period: "June-July 2021",
+  },
+  {
+    name: "Mania 4K French Tournament 2021",
+    short: "MFT4K2021",
+    description: `Unrestricted French-speaking 4K mania`,
+    placement: "9th-12th",
+    participants: 58,
+    period: "June-July 2021",
   },
 ];

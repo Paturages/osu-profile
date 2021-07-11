@@ -95,10 +95,35 @@ module.exports = [
     name: 'SV Summer Exhibition',
     short: 'SVSE',
     description: 'A 100% SV tournament',
-    period: 'Summer 2021',
+    period: 'May-July 2021',
     mappool: true,
+    stream: true,
     mapper: true,
     referee: true,
     commentary: true
-  }
+  },
+  {
+    name: 'Tournamint 3',
+    short: 'TM3',
+    description: 'Raw skill oriented mania tournament',
+    period: 'June-August 2021',
+    stream: true,
+    referee: true,
+    commentary: true
+  },
+  {
+    name: 'Mania 4K French Tournament 2021',
+    short: 'MFT4K2021',
+    description: 'Hon hon hon',
+    period: 'June-July 2021',
+    commentary: true
+  },
+  {
+    name: 'osu! Philippines Tourney 2021',
+    short: 'PHNM2021',
+    description: '4K and 7K Nationals',
+    period: 'June-July 2021',
+    referee: true,
+    mappool: true
+  },
 ];
