@@ -39,8 +39,8 @@ You can add something like `?v=102831` to refresh browser caches if necessary.
 https://paturages.github.io/osu-profile/public/svg/tournaments.svg?v=395870677867b5ded3b60633dd4eb2d9
 ![](https://paturages.github.io/osu-profile/public/svg/tournaments.svg?v=395870677867b5ded3b60633dd4eb2d9)
 
-https://paturages.github.io/osu-profile/public/svg/staffs.svg?v=76f59e419b309ea247e7d255fc5072cf
-![](https://paturages.github.io/osu-profile/public/svg/staffs.svg?v=76f59e419b309ea247e7d255fc5072cf)
+https://paturages.github.io/osu-profile/public/svg/staffs.svg?v=846b3f39359d6c42a518b07ce9efec47
+![](https://paturages.github.io/osu-profile/public/svg/staffs.svg?v=846b3f39359d6c42a518b07ce9efec47)
 
 https://paturages.github.io/osu-profile/public/svg/dans.svg?v=1587f848422dfbce4a1557dd1696543e
 ![](https://paturages.github.io/osu-profile/public/svg/dans.svg?v=1587f848422dfbce4a1557dd1696543e)
