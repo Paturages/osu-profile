@@ -42,5 +42,5 @@ https://paturages.github.io/osu-profile/public/svg/tournaments.svg?v=39587067786
 https://paturages.github.io/osu-profile/public/svg/staffs.svg?v=846b3f39359d6c42a518b07ce9efec47
 ![](https://paturages.github.io/osu-profile/public/svg/staffs.svg?v=846b3f39359d6c42a518b07ce9efec47)
 
-https://paturages.github.io/osu-profile/public/svg/dans.svg?v=1587f848422dfbce4a1557dd1696543e
-![](https://paturages.github.io/osu-profile/public/svg/dans.svg?v=1587f848422dfbce4a1557dd1696543e)
+https://paturages.github.io/osu-profile/public/svg/dans.svg?v=0de50b9b434e4f45116216f512753925
+![](https://paturages.github.io/osu-profile/public/svg/dans.svg?v=0de50b9b434e4f45116216f512753925)
