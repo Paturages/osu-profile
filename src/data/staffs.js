@@ -126,4 +126,37 @@ module.exports = [
     referee: true,
     mappool: true
   },
+  {
+    name: "osu!mania 4K World Cup 2021",
+    short: "MWC4K2021",
+    description: "Extra helping hands on SV pooling",
+    period: "August-September 2021",
+    mappool: true,
+    commentary: true,
+  },
+  {
+    name: 'Tournamint 3.0+1.0',
+    short: 'TM4',
+    description: 'Also contributed haphazard graphics',
+    period: 'November 2021-January 2022',
+    stream: true,
+    referee: true,
+    commentary: true
+  },
+  {
+    name: "4-Digit osu!mania 4K World Cup 4",
+    short: "4DMWC4",
+    description: "fuck albion",
+    period: "January-February 2022",
+    commentary: true
+  },
+  {
+    name: "Springtime osu!mania Free-for-all Tournament 6",
+    short: "SOFT6",
+    description: "fuck albion, once again",
+    period: "March-May 2022",
+    referee: true,
+    stream: true,
+    commentary: true,
+  },
 ];

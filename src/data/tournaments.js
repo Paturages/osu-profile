@@ -55,4 +55,12 @@ module.exports = [
     participants: 58,
     period: "June-July 2021",
   },
+  {
+    name: "4-Digit osu!mania 4K World Cup 4",
+    short: "4DMWC4",
+    description: "Yea that's the badge thing",
+    placement: "1st",
+    participants: 39,
+    period: "January-February 2022",
+  },
 ];

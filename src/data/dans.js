@@ -29,6 +29,18 @@ const reform = [
     percent: "97.15%",
     date: "2020-12-13",
   },
+  {
+    name: "Reform Dans",
+    grade: "Dan 8",
+    percent: "96.77%",
+    date: "2021-09-17",
+  },
+  {
+    name: "Reform Dans",
+    grade: "Dan 9",
+    percent: "96.65%",
+    date: "2022-02-24",
+  },
 ];
 
 const shoegazer = [
@@ -168,6 +180,20 @@ const underjoy = [
     grade: "Dan 7",
     percent: "96.16%",
     date: "2021-02-10",
+    v2: true,
+  },
+  {
+    name: "_underjoy LN Dans",
+    grade: "Dan 8",
+    percent: "96.49%",
+    date: "2021-12-24",
+    v2: true,
+  },
+  {
+    name: "_underjoy LN Dans",
+    grade: "Dan 9",
+    percent: "96.63%",
+    date: "2022-03-25",
     v2: true,
   },
 ];
