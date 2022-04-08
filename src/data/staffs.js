@@ -128,9 +128,9 @@ module.exports = [
   },
   {
     name: "osu!mania 4K World Cup 2021",
+    description: "Mappool helper/mapper on SV + commentary as usual",
     short: "MWC4K2021",
-    description: "Extra helping hands on SV pooling",
-    period: "August-September 2021",
+    period: "July-September 2021",
     mappool: true,
     commentary: true,
   },
