@@ -80,6 +80,12 @@ const shoegazer = [
     percent: "96.42%",
     date: "2020-10-06",
   },
+  {
+    name: "Shoegazer Dans",
+    grade: "Dan 9",
+    percent: "97.01%",
+    date: "2022-04-12",
+  },
 ];
 
 const arcwinoli = [

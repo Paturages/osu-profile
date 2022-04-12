@@ -39,8 +39,8 @@ You can add something like `?v=102831` to refresh browser caches if necessary.
 https://paturages.github.io/osu-profile/public/svg/tournaments.svg?v=13c88975a1a9df58c057b68eb67fb4cf
 ![](https://paturages.github.io/osu-profile/public/svg/tournaments.svg?v=13c88975a1a9df58c057b68eb67fb4cf)
 
-https://paturages.github.io/osu-profile/public/svg/staffs.svg?v=c281929a66dfff87d843e2ec46cb608f
-![](https://paturages.github.io/osu-profile/public/svg/staffs.svg?v=c281929a66dfff87d843e2ec46cb608f)
+https://paturages.github.io/osu-profile/public/svg/staffs.svg?v=3a0399e89466832c8abec76fe18691a2
+![](https://paturages.github.io/osu-profile/public/svg/staffs.svg?v=3a0399e89466832c8abec76fe18691a2)
 
-https://paturages.github.io/osu-profile/public/svg/dans.svg?v=62371cd5fc85e468090714ebd45114e4
-![](https://paturages.github.io/osu-profile/public/svg/dans.svg?v=62371cd5fc85e468090714ebd45114e4)
+https://paturages.github.io/osu-profile/public/svg/dans.svg?v=9456bcb7bcc3c15b142dc84b4e24f2e1
+![](https://paturages.github.io/osu-profile/public/svg/dans.svg?v=9456bcb7bcc3c15b142dc84b4e24f2e1)
