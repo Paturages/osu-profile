@@ -5,14 +5,15 @@
   $: title = dan.name;
   $: description = dan.grade;
   $: date = dan.date;
+  $: link = dan.link;
 </script>
 
-<OsuRow {title} {description} {date}>
+<OsuRow {link} {title} {description} {date}>
   <div class="percent">
     {dan.percent || 'clear!'}
   </div>
   {#if dan.v2}
-    <div class="v2">(v2)</div>
+    <div class="v2">Score V2</div>
   {/if}
 </OsuRow>
 
@@ -20,5 +21,6 @@
   .percent {
     font-weight: bold;
     font-size: 14px;
+    text-align: center;
   }
 </style>
