@@ -5,9 +5,10 @@
   $: title = staff.name + (staff.short ? ` (${staff.short})` : '');
   $: description = staff.description;
   $: date = staff.period;
+  $: link = staff.link;
 </script>
 
-<OsuRow {title} {description} {date}>
+<OsuRow {link} {title} {description} {date}>
   <div class="content">
     {#if staff.stream}
       📺
@@ -39,5 +40,6 @@
     display: inline-flex;
     align-items: center;
     justify-content: flex-end;
+    place-content: center;
   }
 </style>

@@ -5,9 +5,10 @@
   $: title = tournament.name + (tournament.short ? ` (${tournament.short})` : '');
   $: description = tournament.description;
   $: date = tournament.period;
+  $: link = tournament.link;
 </script>
 
-<OsuRow {title} {description} {date}>
+<OsuRow {link} {title} {description} {date}>
   <div class="content">
     <div class="placement"><b>{tournament.placement}</b></div>
     <div class="participants">/ {tournament.participants}</div>

@@ -2,26 +2,33 @@
   export let title;
   export let description;
   export let date;
+  export let link;
 </script>
 
-<div class="osu-row">
-  <div class="left">
-    <div class="title">{title}</div>
-    <div class="description">
-      {description}
-      <span class="period">{date}</span>
+<a href="{link}" target="_blank" rel="noopener noreferrer">
+  <div class="osu-row">
+    <div class="left">
+      <div class="title">{title}</div>
+      <div class="description">
+        {description}
+        <span class="period">{date}</span>
+      </div>
+    </div>
+    <div class="right">
+      <slot></slot>
     </div>
   </div>
-  <div class="right">
-    <slot></slot>
-  </div>
-</div>
+</a>
 
 <style>
+  a {
+    all: unset;
+    cursor: pointer;
+  }
   .osu-row {
     font-size: 12px;
     margin: 2px 0;
-    background: #46393f;
+    background: hsl(333, 10%, 30%);
     border-radius: 10px;
     display: flex;
   }
@@ -45,7 +52,7 @@
   }
   .right::before {
     content: "";
-    background-color: #46393f;
+    background: hsl(333, 10%, 30%);
     width: 10px;
     height: 100%;
     position: absolute;
@@ -56,11 +63,11 @@
   }
   .right {
     padding: 6px 6px 6px 12px;
-    text-align: right;
+    text-align: center;
     position: relative;
     width: 85px;
-    color: rgb(255, 102, 171);
-    background: #382e32;
+    color: hsl(333, 100%, 70%);
+    background: hsl(333, 10%, 25%);
     display: inline-flex;
     flex-direction: column;
     justify-content: center;
