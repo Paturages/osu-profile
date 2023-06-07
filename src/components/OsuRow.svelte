@@ -26,6 +26,7 @@
     cursor: pointer;
   }
   .osu-row {
+    height: 46px;
     font-size: 12px;
     margin: 2px 0;
     background: hsl(333, 10%, 30%);
