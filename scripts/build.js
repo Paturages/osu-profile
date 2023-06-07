@@ -31,7 +31,9 @@ fs.readdirSync("./src/data").forEach((entityName) => {
     [capitalizedName.toLowerCase()]: entities,
   })
   // Rough height estimate by number of elements
-  const height = 18 + entities.length * 46
+  // (46px height + 2px margin)
+  // + overall 4px margin
+  const height = 4 + entities.length * (46+2)
 
   const content = `<svg fill="none" width="800" height="${height}" xmlns="http://www.w3.org/2000/svg">
       <foreignObject width="100%" height="100%">
